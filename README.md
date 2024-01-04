@@ -17,11 +17,15 @@ The Multiple Search Bar Designs project showcases various search bar designs imp
 
 - Easily integrate the search bar designs into your own web projects by copying the HTML and CSS code.
 
-## Usage
+
+## Usage  
+
 
 1. Clone the repository:
    ```shell
    git clone https://github.com/Bhawna-Vishwakarma/Multiple-Search-Bar-Designs.git
+
+
 Open the index.html file in your web browser.
 
 Explore the different search bar designs with search buttons.
@@ -34,11 +38,13 @@ Customize the design by modifying the CSS styles to suit your preferences.
 
 Integrate the search bar design into your web project and enhance the user experience.
 
-Contributing
+
+# Contributing
 Contributions are welcome! If you have any suggestions, improvements, or additional search bar designs to add to the project, please feel free to open an issue or submit a pull request.
 
 
-Contact
+# Contact
 If you have any questions or want to reach out regarding this project, you can contact me at bvishwakarma1008@gmail.com. You can also find more of my projects on GitHub.
+
 
 Thank you for checking out the Multiple Search Bar Designs project!
